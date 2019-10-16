@@ -3,3 +3,4 @@ def line(position, name)
  if position == 0 
   puts "The line is currently empty."
 end
+end
