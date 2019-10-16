@@ -1,4 +1,4 @@
-def line(position, name)
+def line(position)
   
   puts "The line is currently empty."
 end
