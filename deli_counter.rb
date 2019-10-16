@@ -6,6 +6,6 @@ def line(array)
    array.each_with_index(1) do |person, index| 
      #{index}. #{person}"
   end
-
+end
 end
  
