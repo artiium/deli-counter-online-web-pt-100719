@@ -7,5 +7,5 @@ def line(array)
      #{index}. #{person}"
   end
 end
-end
+
  
